@@ -5,7 +5,7 @@ import math
 from matplotlib import pyplot as plt
 import matplotlib
 
-NUM_DATAPOINTS = 100
+NUM_DATAPOINTS = 300
 NUM_SAMPLES_PER_DP = 500
 TIME_STEP = 0.1
 
